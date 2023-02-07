@@ -1,3 +1,6 @@
+#### February 7 (day 5)
+Learned about HTML editors
+
 #### February 5 (day 4)
 Learned about HTML elements
 
