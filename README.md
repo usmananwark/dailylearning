@@ -1,5 +1,6 @@
 ### June 1 (day 7)
 Started to learn Python
+installed Python and VScode
 
 #### February 10 (day 6)
 Learned about HTML tags
