@@ -1,3 +1,8 @@
+###June 1 (day 7)
+Started to learn Python
+attended 5 lectures 
+installed Python and VSCode
+
 #### February 10 (day 6)
 Learned about HTML tags
 
