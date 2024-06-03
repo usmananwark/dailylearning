@@ -1,3 +1,6 @@
+### June 3 (day 8)
+Learning Python, learnt Hello world program, deta types and use of print command 
+
 ### June 1 (day 7)
 Started to learn Python,
 installed Python and VScode
