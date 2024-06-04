@@ -1,5 +1,8 @@
+### June 4 (day 9)
+learnt Variables, to take input from user and typecasting in Python
+
 ### June 3 (day 8)
-Learning Python, learnt Hello world program, deta types and use of print command
+Learnt Python, learnt Hello world program, deta types and use of print command
 
 ### June 1 (day 7)
 Started to learn Python,
