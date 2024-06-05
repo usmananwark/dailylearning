@@ -1,3 +1,6 @@
+### June 5 (day 10)
+learnt about escape characters, operstors, their precedence and associativity in Python
+
 ### June 4 (day 9)
 learnt Variables, to take input from user and typecasting in Python
 
