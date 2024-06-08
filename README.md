@@ -1,4 +1,4 @@
-### June 7 (day 12)
+### June 8 (day 13)
 Learnt about bitwise operstors, their precedence and associativity in Python
 
 ### June 7 (day 12)
