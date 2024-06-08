@@ -1,5 +1,11 @@
+### June 7 (day 12)
+Learnt about bitwise operstors, their precedence and associativity in Python
+
+### June 7 (day 12)
+Learnt about comparison operstors, their precedence and associativity in Python
+
 ### June 6 (day 11)
-Learnt about escape arithmetic and logical operstors, their precedence and associativity in Python
+Learnt about arithmetic and logical operstors, their precedence and associativity in Python
 
 ### June 5 (day 10)
 Learnt about escape characters, operstors, their precedence and associativity in Python
