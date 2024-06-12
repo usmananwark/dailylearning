@@ -1,3 +1,6 @@
+### June 12 (day 14)
+Learnt about identity operstors, and membership operstors in Python
+
 ### June 8 (day 13)
 Learnt about bitwise operstors, their precedence and associativity in Python
 
