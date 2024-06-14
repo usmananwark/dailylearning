@@ -1,3 +1,6 @@
+### June 14 (day 15)
+Learnt about mutable and immutable operstors in Python
+
 ### June 12 (day 14)
 Learnt about identity operstors, and membership operstors in Python
 
