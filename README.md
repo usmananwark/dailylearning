@@ -1,3 +1,6 @@
+### June 15 (day 16)
+Learnt about string formation and print in Python
+
 ### June 14 (day 15)
 Learnt about mutable and immutable operstors in Python
 
