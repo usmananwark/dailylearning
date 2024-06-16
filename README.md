@@ -1,3 +1,6 @@
+### June 16 (day 17)
+Learnt about concatination, immutation of string and to use input in a string in Python
+
 ### June 15 (day 16)
 Learnt about string formation and print in Python
 
