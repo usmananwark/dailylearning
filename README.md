@@ -1,4 +1,4 @@
-### June 16 (day 17)
+### June 18 (day 18)
 Learnt about various data types in Python
 
 ### June 16 (day 17)
