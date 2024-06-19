@@ -1,3 +1,6 @@
+### June 19 (day 19)
+Learnt various string operations in Python
+
 ### June 18 (day 18)
 Learnt about various data types in Python
 
