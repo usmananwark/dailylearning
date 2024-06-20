@@ -1,3 +1,6 @@
+### June 20 (day 20)
+Learnt slicing in Python
+
 ### June 19 (day 19)
 Learnt various string operations in Python
 
