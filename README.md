@@ -1,3 +1,6 @@
+### June 21 (day 21)
+Learnt string built in functions in Python
+
 ### June 20 (day 20)
 Learnt slicing in Python
 
