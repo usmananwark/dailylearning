@@ -1,3 +1,6 @@
+### June 23 (day 22)
+Learnt about list in Python
+
 ### June 21 (day 21)
 Learnt string built in functions in Python
 
