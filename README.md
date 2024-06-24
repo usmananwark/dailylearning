@@ -1,3 +1,6 @@
+### June 24 (day 23)
+Learnt about list operations in Python
+
 ### June 23 (day 22)
 Learnt about list in Python
 
