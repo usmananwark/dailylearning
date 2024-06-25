@@ -1,3 +1,6 @@
+### June 25 (day 24)
+Learnt about various built in functions of list in Python
+
 ### June 24 (day 23)
 Learnt about list operations in Python
 
@@ -67,6 +70,3 @@ Studied basic intro of HTML
 
 #### January 29 (day 1)
 Created the repository 
-
-
-
