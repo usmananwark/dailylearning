@@ -1,3 +1,6 @@
+### June 26 (day 25)
+Learnt about Dictionary in Python
+
 ### June 25 (day 24)
 Learnt about various built in functions of list in Python
 
