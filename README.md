@@ -1,3 +1,6 @@
+### June 27 (day 26)
+Learnt about Loops in Python
+
 ### June 26 (day 25)
 Learnt about Dictionary in Python
 
