@@ -1,3 +1,6 @@
+### June 29 (day 28)
+Learnt about Loops in Python
+
 ### June 28 (day 27)
 Learnt about Conditional Statements in Python
 
