@@ -1,4 +1,4 @@
-### June 29 (day 28)
+### July 01 (day 29)
 Learnt about do while Loops in Python
 
 ### June 29 (day 28)
