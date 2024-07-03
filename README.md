@@ -1,3 +1,6 @@
+### July 02,03 (day 30,31)
+Learnt about keyword and types of errors in Python
+
 ### July 01 (day 29)
 Learnt about do while Loops in Python
 
