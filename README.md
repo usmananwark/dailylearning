@@ -1,6 +1,6 @@
 ### July 04,05,06 (day 32,33, 34)
-Learnt about NumPy Arrays in Python
-Started NumPy in Python
+Learnt about NumPy Arrays in Python,
+Started NumPy in Python,
 Learnt about Quotes in Python
 
 ### July 02,03 (day 30,31)
