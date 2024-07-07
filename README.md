@@ -1,3 +1,6 @@
+### July 07 (day 35)
+Learnt about Arithmatic operations on NumPy Arrays in Python
+
 ### July 04,05,06 (day 32,33, 34)
 Learnt about NumPy Arrays in Python,
 Started NumPy in Python,
