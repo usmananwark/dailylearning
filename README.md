@@ -1,3 +1,6 @@
+### July 08 (day 37)
+Learnt about Indexing of NumPy Arrays in Python
+
 ### July 07 (day 35)
 Learnt about Arithmatic operations on NumPy Arrays in Python
 
