@@ -1,3 +1,6 @@
+### July 09 (day 38)
+Learnt about Sorting in 1D NumPy Arrays in Python
+
 ### July 08 (day 37)
 Learnt about Indexing of NumPy Arrays in Python
 
