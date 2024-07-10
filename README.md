@@ -1,3 +1,6 @@
+### July 10 (day 39)
+Learnt about Slicing in NumPy Arrays in Python
+
 ### July 09 (day 38)
 Learnt about Sorting in 1D NumPy Arrays in Python
 
