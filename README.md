@@ -1,3 +1,6 @@
+### July 11 (day 40)
+Learnt about Statistical Operations on 1D NumPy Arrays in Python
+
 ### July 10 (day 39)
 Learnt about Slicing in NumPy Arrays in Python
 
