@@ -1,3 +1,6 @@
+### July 12 (day 41)
+Learnt about Data Frames in Pandas in Python
+
 ### July 11 (day 40)
 Learnt about Statistical Operations on 1D NumPy Arrays in Python
 
