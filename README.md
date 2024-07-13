@@ -1,3 +1,6 @@
+### July 13 (day 42)
+Learnt about various operation on data frames in Pandas in Python
+
 ### July 12 (day 41)
 Learnt about Data Frames in Pandas in Python
 
