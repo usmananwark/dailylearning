@@ -1,3 +1,6 @@
+### July 15 (day 43)
+Learnt about definig function in Python
+
 ### July 13 (day 42)
 Learnt about various operation on data frames in Pandas in Python
 
