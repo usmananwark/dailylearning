@@ -1,3 +1,6 @@
+### July 16 & 17 (day 44 & 45)
+Learnt about file handeling, read, read line and read lines function in Python
+
 ### July 15 (day 43)
 Learnt about definig function in Python
 
