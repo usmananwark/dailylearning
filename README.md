@@ -1,3 +1,6 @@
+### July 18 (day 46)
+Learnt about different types of charts used for Data Visulaisation in Python
+
 ### July 16 & 17 (day 44 & 45)
 Learnt about file handeling, read, read line and read lines function in Python
 
