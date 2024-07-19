@@ -1,3 +1,6 @@
+### July 19 (day 47)
+Learnt about scoping and life time of variables in Python
+
 ### July 18 (day 46)
 Learnt about different types of charts used for Data Visulaisation in Python
 
