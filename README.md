@@ -1,3 +1,6 @@
+### July 20 (day 48)
+Learnt about Insertion Sort in Python
+
 ### July 19 (day 47)
 Learnt about scoping and life time of variables in Python
 
