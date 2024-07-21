@@ -1,3 +1,6 @@
+### July 21 (day 49)
+Learnt about Selection Sort in Python
+
 ### July 20 (day 48)
 Learnt about Insertion Sort in Python
 
