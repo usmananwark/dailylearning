@@ -1,3 +1,6 @@
+### July 22 (day 50)
+Learnt about Bubble Sort in Python
+
 ### July 21 (day 49)
 Learnt about Selection Sort in Python
 
