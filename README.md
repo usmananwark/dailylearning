@@ -1,3 +1,6 @@
+### July 23 (day 51)
+Learnt about Linear Search in Python
+
 ### July 22 (day 50)
 Learnt about Bubble Sort in Python
 
