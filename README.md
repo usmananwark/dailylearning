@@ -1,3 +1,6 @@
+### July 24 (day 52)
+Learnt about Binary Search in Python
+
 ### July 23 (day 51)
 Learnt about Linear Search in Python
 
