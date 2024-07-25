@@ -1,3 +1,6 @@
+### July 25 (day 53)
+Learnt about List and Array in Python
+
 ### July 24 (day 52)
 Learnt about Binary Search in Python
 
