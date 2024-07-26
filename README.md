@@ -1,3 +1,6 @@
+### July 26 (day 54)
+Learnt about Quick Sort in Python
+
 ### July 25 (day 53)
 Learnt about List and Array in Python
 
