@@ -1,3 +1,6 @@
+### July 27 (day 54)
+Learnt about Merge Sort in Python
+
 ### July 26 (day 54)
 Learnt about Quick Sort in Python
 
