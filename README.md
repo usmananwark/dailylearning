@@ -1,3 +1,6 @@
+### July 28, 29 (day 56, 57)
+Learnt about OOPs and Classes in Python
+
 ### July 27 (day 55)
 Learnt about Merge Sort in Python
 
