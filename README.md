@@ -1,3 +1,6 @@
+### August 05 (day 58)
+Learnt about Constructors in Python
+
 ### July 28, 29 (day 56, 57)
 Learnt about OOPs and Classes in Python
 
@@ -14,7 +17,7 @@ Learnt about List and Array in Python
 Learnt about Binary Search in Python
 
 ### July 23 (day 51)
-Learnt about Linear Search in Python
+Learnt about Linear Search in Python  
 
 ### July 22 (day 50)
 Learnt about Bubble Sort in Python
