@@ -1,3 +1,6 @@
+### August 06, 07 (day 59, 60)
+Learnt about List operations and accessing an element in list in Python
+
 ### August 05 (day 58)
 Learnt about Constructors in Python
 
