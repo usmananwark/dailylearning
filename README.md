@@ -1,3 +1,6 @@
+### August 12 (day 61)
+Started practice to write code using python
+
 ### August 06, 07 (day 59, 60)
 Learnt about List operations and accessing an element in list in Python
 
