@@ -1,3 +1,6 @@
+### August 14 (day 63)
+code to Calculate the multiplication and sum of two numbers
+
 ### August 13 (day 62)
 code to find either the entered year is leap year or not
 
