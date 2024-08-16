@@ -1,3 +1,7 @@
+### August 15, 16 (day 64, 65)
+code to print characters from a string that are present at an even index number
+code to print the sum of the current number and the previous number
+
 ### August 14 (day 63)
 code to Calculate the multiplication and sum of two numbers
 
