@@ -1,3 +1,6 @@
+### August 17 (day 66)
+Code to Remove first n characters from a string
+
 ### August 15, 16 (day 64, 65)
 code to print characters from a string that are present at an even index number and
 code to print the sum of the current number and the previous number
