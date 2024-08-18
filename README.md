@@ -1,3 +1,6 @@
+### August 18 (day 67)
+Code to check if the first and last element of the list is same using Python
+
 ### August 17 (day 66)
 Code to Remove first n characters from a string
 
