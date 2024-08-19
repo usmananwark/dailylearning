@@ -1,3 +1,6 @@
+### August 19 (day 68)
+Code to Display numbers divisible by 5 from a list
+
 ### August 18 (day 67)
 Code to check if the first and last element of the list is same using Python
 
