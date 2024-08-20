@@ -1,3 +1,6 @@
+### August 20 (day 69)
+Code to Display numbers divisible by 2 and 5 from a list
+
 ### August 19 (day 68)
 Code to Display numbers divisible by 5 from a list
 
