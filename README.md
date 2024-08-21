@@ -1,3 +1,6 @@
+### August 21 (day 70)
+Code to check either the entered number is divisible by 5 or not?
+
 ### August 20 (day 69)
 Code to Display numbers divisible by 2 and 5 from a list
 
