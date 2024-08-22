@@ -1,3 +1,11 @@
+### August 22 (day 71)
+Code to create a new list from two list using the following condition
+•	Create a new list from two list using the following conditions 
+o	Given two list of numbers
+o	write a program to create a new list such that the new list should contain
+o	odd numbers from the first list
+o	even numbers from the second list.
+
 ### August 21 (day 70)
 Code to check either the entered number is divisible by 5 or not?
 
