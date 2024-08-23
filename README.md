@@ -1,9 +1,9 @@
 ### August 23 (day 72)
-#Create a new list from two list using the following condition
-#Given two list of numbers
-#write a program to create a new list such that 
-    #the new list should contain odd numbers from the first list
-    #even numbers from the second list.
+Calculate income tax for the given income by adhering to the rules below:
+•	Taxable Income	Rate (in %)
+•	First $10,000		0%
+•	Next $10,000		10%
+•	The remaining		20%
 
 ### August 22 (day 71)
 Code to create a new list from two list using the following condition
