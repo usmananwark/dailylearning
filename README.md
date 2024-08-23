@@ -1,3 +1,10 @@
+### August 23 (day 72)
+#Create a new list from two list using the following condition
+#Given two list of numbers
+#write a program to create a new list such that 
+    #the new list should contain odd numbers from the first list
+    #even numbers from the second list.
+
 ### August 22 (day 71)
 Code to create a new list from two list using the following condition
 •	Create a new list from two list using the following conditions 
