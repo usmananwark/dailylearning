@@ -1,3 +1,6 @@
+### August 24 (day 73)
+code to Check Palindrome Number in python
+
 ### August 23 (day 72)
 Calculate income tax for the given income by adhering to the rules below:
 •	Taxable Income	Rate (in %)
