@@ -1,3 +1,6 @@
+### August 26 (day 74)
+Code to return tables in python
+
 ### August 24 (day 73)
 Code to Check Palindrome Number in python
 
