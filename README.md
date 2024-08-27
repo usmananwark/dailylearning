@@ -1,3 +1,6 @@
+### August 27 (day 75)
+Write a function called exponent (base, exp) that returns an int value of base raises to the power of exp.
+
 ### August 26 (day 74)
 Code to return tables in python
 
