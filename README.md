@@ -1,3 +1,6 @@
+### August 28 (day 76)
+Print a downward Half-Pyramid Pattern of Star (asterisk)
+
 ### August 27 (day 75)
 Write a function called exponent (base, exp) that returns an int value of base raises to the power of exp.
 
